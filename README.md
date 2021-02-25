@@ -6,7 +6,7 @@ Veritabanı DbFirst yöntemi ile modellenmiştir.</br>
 
 <h2>Kullanılan Teknikler</h2></br></br>
 
-Entity Framework Core Sql Server
-Entity Framework Core Tools
-Sql Table Dependency
-High Charts
+Entity Framework Core Sql Server</br>
+Entity Framework Core Tools</br>
+Sql Table Dependency</br>
+High Charts</br>
