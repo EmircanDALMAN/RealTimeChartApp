@@ -4,8 +4,9 @@
 <h2>Veritabanının MSSQL içerisinde olması gerekmektedir. Script olarak verilmiştir.</h2></br>
 <h2>Veritabanı DbFirst yöntemi ile modellenmiştir.</h2> </br>
 
-<strong>Kullanılan Teknikler</strong></br></br>
+Kullanılan Teknikler</br></br>
 
 <h2>Entity Framework Core Sql Server</h2>
 <h2>Entity Framework Core Tools</h2>
 <h2>Sql Table Dependency</h2>
+<h2>High Charts</h2>
